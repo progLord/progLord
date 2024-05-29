@@ -1,4 +1,4 @@
-![Header](https://github.com/MAster1941/Master1941/blob/main/assets/header.jpg)
+![Header](https://github.com/MAster1941/Master1941/blob/main/assets/header_2.jpg)
 
 ## обо мне:
 
@@ -23,13 +23,13 @@
 [![My Skills](https://skillicons.dev/icons?i=bash,arduino,notion&perline=5)](https://skillicons.dev)
 
 ---
-[![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=0078D4)](https://www.sqlite.org/)
+[![sqlite](https://img.shields.io/badge/SQLite-092E20?style=for-the-badge&logo=sqlite&logoColor=0078D4)](https://www.sqlite.org/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](https://www.djangoproject.com/)
-[![Django%20rest](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=green)](https://www.django-rest-framework.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/ru/)
-[![Gunicorn](https://img.shields.io/badge/Gunicorn-00A98F?style=for-the-badge&logo=gunicorn&logoColor=white)](https://gunicorn.org/)
-[![opencv](https://img.shields.io/badge/opencv-FF6C37?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![Django%20rest](https://img.shields.io/badge/django%20rest-092E20?style=for-the-badge&logo=django&logoColor=green)](https://www.django-rest-framework.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-092E20?style=for-the-badge&logo=postgresql&logoColor=009099)](https://www.postgresql.org/)
+[![Nginx](https://img.shields.io/badge/Nginx-092E20?style=for-the-badge&logo=nginx&logoColor=009639)](https://nginx.org/ru/)
+[![Gunicorn](https://img.shields.io/badge/Gunicorn-092E20?style=for-the-badge&logo=gunicorn&logoColor=00A98F)](https://gunicorn.org/)
+[![opencv](https://img.shields.io/badge/opencv-092E20?style=for-the-badge&logo=opencv&logoColor=FF6C37)](https://opencv.org/)
 
 ## Мои контакты:
 
